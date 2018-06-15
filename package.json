@@ -1,0 +1,29 @@
+{
+  "name": "agenda-schedule-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wingsbob/agenda-schedule-bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wingsbob/agenda-schedule-bug/issues"
+  },
+  "homepage": "https://github.com/wingsbob/agenda-schedule-bug#readme",
+  "dependencies": {
+    "agenda": "^1.0.3",
+    "mongodb": "^3.0.10"
+  },
+  "devDependencies": {
+    "@types/agenda": "^1.0.3",
+    "@types/mongodb": "^3.0.19",
+    "ts-node": "^6.1.1",
+    "typescript": "^2.9.2"
+  }
+}
